@@ -1,4 +1,4 @@
-# rajnsih-projects
+# rajnish-projects
 this is my git hub file
 
 <br>
